@@ -164,9 +164,6 @@ const Index = props => (
             <Link href="/view">
             <li>3D view</li>
             </Link>
-            {/* <Link href="/contact">
-            <li>Contact</li>
-            </Link> */}
         </ul>   
       </div>
     </motion.div>
